@@ -2,4 +2,4 @@
 
 #include "../myio.h"
 
-void day7(string file_name);
+void day8(string file_name);

@@ -24,6 +24,9 @@
     <ClCompile Include="myio.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="dict\dict.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array\array.h">
@@ -32,8 +35,12 @@
     <ClInclude Include="myio.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="dict\dict.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="array\test.txt" />
+    <Text Include="dict\test.txt" />
   </ItemGroup>
 </Project>

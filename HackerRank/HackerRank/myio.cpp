@@ -1,4 +1,3 @@
-#include <functional>
 #include "myio.h"
 
 string ltrim(const string& str) {

@@ -1,7 +1,17 @@
 #pragma once
+#include <iostream>
+#include <fstream>
+#include <sstream>
 
-#include <vector>
 #include <string>
+#include <map>
+#include <vector>
+#include <iterator>
+
+#include <functional>
+#include <utility>
+#include <stdexcept>
+
 
 using namespace std;
 

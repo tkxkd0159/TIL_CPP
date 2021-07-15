@@ -1,8 +1,5 @@
 
 #include "array.h"
-#include "../myio.h"
-
-using namespace std;
 
 void day7(string file_name) {
 
